@@ -1,0 +1,15 @@
+.tree {
+  background-color: #efefef;
+  height: 100%;
+  padding: 10px;
+  margin-left: -20px;
+  font-family: monospace;
+}
+
+.node {
+  margin-left: 20px;
+}
+
+.children {
+  margin-left: 20px;
+}

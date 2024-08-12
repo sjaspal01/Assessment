@@ -1,0 +1,32 @@
+{
+    "name": "root",
+    "children": [
+      {
+        "name": "ant"
+      },
+      {
+        "name": "bear",
+        "children": [
+          {
+            "name": "cat"
+          },
+          {
+            "name": "dog",
+            "children": [
+              {
+                "name": "elephant"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "frog",
+        "children": [
+          {
+            "name": "dolphin"
+          }
+        ]
+      }
+    ]
+  }
